@@ -1,8 +1,7 @@
-# Git Completo: Do Básico ao Avançado
+# Bootstrap4
+Sites desenvolvidos com HTML 5 , CSS 3 e Bootstrap 4.
 
-Este repositório é referente ao curso da [DevMasterTeam](http://www.devmasterteam.com/) disponível na plataforma [Udemy](https://www.udemy.com/course/git-completo-do-basico-ao-avancado/?referralCode=23BF453C75F742F0926F).
-
-- Pasta [Website](https://github.com/DevMasterTeam/Udemy-Git/tree/master/Website) contém o código fonte para a página Web estática usada de exemplo no curso.
-- Outras pastas, nomeadas de acordo com cada seção, se encontram os slides em formato PDF.
-
-**DevMasterTeam**
+Finans - um website criado a partir de conhecimentos em Bootstrap 4. <br><br>
+  O mesmo conta com um desgin responsivo para todas os tamanhos de tela, utilizando de conceitos de flexbox, elementos flutuantes, cabeçalho "sticky" responsivo. <br>
+  Contendo também um texto original produzido estritamente por mim onde contém uma técnica real de negociação de criptoativos.<br><br>
+  O intuito do projeto foi para portfólio e aprendizado consistindo na criaçao de um layout para facilitar a estruturação de novos projetos.<br><hr>
